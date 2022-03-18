@@ -17,7 +17,7 @@ Server has baseuser, user and admin accounts. Baseuser acts as super class for a
 ### Configuration:
 .env variables need to be filled - i.e DB connection uri, JWT secret, JWT expiry time
 ### Additional:
-Uses npm package nodemon to automatically update node application when changed are made.
+Uses npm package nodemon to automatically update node application when changes are made.
 
 Use `npm install -g nodemon` to globally install nodemon package
 
