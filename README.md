@@ -1,4 +1,4 @@
-# ExpressJWT_web_httpOnlyCookie_login_registration
+# ExpressJWT_httpCookie_login_register
 Basic setup for node js + express. Uses http only cookie and JWT for authentication. 
 Server has baseuser, user and admin accounts. Baseuser acts as super class for all other account types.
 
@@ -6,9 +6,9 @@ Server has baseuser, user and admin accounts. Baseuser acts as super class for a
 - Express V4.17.3
 
 ### Setup
-`git clone git@github.com:rsleyland/ExpressJWT_web_httpOnlyCookie_login_registration.git`
+`git clone git@github.com:rsleyland/ExpressJWT_httpCookie_login_register.git`
 
-`cd ExpressJWT_web_httpOnlyCookie_login_registration`
+`cd ExpressJWT_httpCookie_login_register`
 
 `npm install`
 
